@@ -1,0 +1,7 @@
+requests>=2.25.0
+numpy>=1.20.0
+sounddevice>=0.4.1
+torch>=1.9.0
+wave
+snac
+llama-cpp-python>=0.2.0 
