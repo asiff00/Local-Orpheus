@@ -16,6 +16,7 @@ pip install -r requirements.txt
 - **Local**: Uses llama-cpp-python
   - Default runs on CPU
   - For CUDA: `pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121`
+  - Windows/Cuda Issue: https://github.com/abetlen/llama-cpp-python/issues/2001#issuecomment-2801082928
 
 ## Base Model
 
